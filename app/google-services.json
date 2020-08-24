@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627240047133",
+    "firebase_url": "https://apka-95dcd.firebaseio.com",
+    "project_id": "apka-95dcd",
+    "storage_bucket": "apka-95dcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627240047133:android:e3474ab30a762728b8acf4",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627240047133-dure6irfuhjnbn48d4qg0cc5sdo8itrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKt9aNtuy7Lo6RLpGk-YDQovodJdO_HDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627240047133-dure6irfuhjnbn48d4qg0cc5sdo8itrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
